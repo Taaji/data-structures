@@ -1,1 +1,1 @@
-Data structure implementations in C++
+Data structure implementations in C
